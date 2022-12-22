@@ -1,0 +1,12 @@
+﻿  Classik_zapisi_lab3.cpp
+C:\Users\kylae\OneDrive\Рабочий стол\RES\Classik_zapisi_lab3\Poliz_zapis.h(16,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\kylae\OneDrive\Рабочий стол\RES\Classik_zapisi_lab3\Poliz_zapis.h(169,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\kylae\OneDrive\Рабочий стол\RES\Classik_zapisi_lab3\Arifmetica.h(82,25): warning C4244: return: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+C:\Users\kylae\OneDrive\Рабочий стол\RES\Classik_zapisi_lab3\STEK.h(61): warning C4715: STEK<double>::get: значение возвращается не при всех путях выполнения
+C:\Users\kylae\OneDrive\Рабочий стол\RES\Classik_zapisi_lab3\STEK.h(61): warning C4715: STEK<TRecord>::get: значение возвращается не при всех путях выполнения
+C:\Users\kylae\OneDrive\Рабочий стол\RES\Classik_zapisi_lab3\STEK.h(67): warning C4715: STEK<TRecord>::top: значение возвращается не при всех путях выполнения
+  Classik_zapisi_lab3.vcxproj -> C:\Users\kylae\OneDrive\Рабочий стол\RES\Classik_zapisi_lab3\x64\Debug\Classik_zapisi_lab3.exe
